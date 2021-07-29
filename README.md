@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @RodrigoDouradoS
-- 👀 I’m interested in  estagios
-- 🌱 I’m currently learning  logica de programação
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m @RodrigoDouradoS.
+- 👀 I’m interested in  estagios na area de programação.
+- 🌱 I’m currently learning  logica de programação e construção de páginas para internet
+- 💞️ I’m looking to collaborate on  qualquel atividade relacionada a tecnologia e aprendizado.
 
 - 📫 How to reach me  via e-mail: rodrigo.dourado50@gmail.com
 
