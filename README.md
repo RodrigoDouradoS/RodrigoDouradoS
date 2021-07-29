@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @RodrigoDouradoS.
-- 👀 I’m interested in  estagios na area de programação.
-- 🌱 I’m currently learning  logica de programação e construção de páginas para internet.
+- 👋 Olá, sou @RodrigoDouradoS.
+- 👀 Tenho interesse em estágios na área de programação.
+- 🌱 Atualmente aprendendo logica de programação e construção de páginas para internet.
 
-- 📫 How to reach me  via e-mail: rodrigo.dourado50@gmail.com
+- 📫 Pode realizar um contato via e-mail: rodrigo.dourado50@gmail.com
 
 <!---
 RodrigoDouradoS/RodrigoDouradoS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
