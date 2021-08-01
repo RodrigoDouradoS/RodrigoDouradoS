@@ -10,6 +10,9 @@ Mark Zuckerberg.
 
 Lute pelas sua ideias. Bons estudos!
 
+
+![Animação de cobra](https://github.com/RodrigoDouradoS/rodrigoDouradoS/blod/output/github-contribution-grid-snake.svg)
+
 <!---
 RodrigoDouradoS/RodrigoDouradoS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
